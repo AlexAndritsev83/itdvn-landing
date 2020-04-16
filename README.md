@@ -23,3 +23,16 @@
 * Запустить команду npm install в терминале. Данная команда установит все пакеты, которые указанны в файле 
 packege.json, а также все их зависимости
 
+## Home task
+1. Git
+- git status
+- git add
+- git commit -m "some comment"
+- git push
+- git branch
+- git checkout
+- git merge
+
+2. Gulp
+-Practicing installing gulp and his plugins
+- autoprefixer and sourcemap  Clafity and install
